@@ -1,8 +1,10 @@
 requests
-telebot
-telebot import types
-flask import Flask
-threading import Thread
+telebot 
+types
+flask 
+Flask
+threading 
+Thread
 random
 time
 json
